@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(15, 66, 15);
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+input{
+    padding: 40px;
+    width: 50%;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+}
